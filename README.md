@@ -54,7 +54,7 @@
 
 ## My Portfolio
 
-  <img width="300" height="100" align="left"  alt="myPortfolio" src="https://image.shutterstock.com/image-photo/text-portfolio-on-brown-paper-260nw-387456811.jpg" />
+  <img width="300" height="200" border-radius="20px" align="left"  alt="myPortfolio" src="https://image.shutterstock.com/image-photo/text-portfolio-on-brown-paper-260nw-387456811.jpg" />
 
 
 
