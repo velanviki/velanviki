@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Velan S</h1>
-<h3 align="center">A passionate MERN Full Stack Developer!!</h3>
+<h2 align="center">A passionate MERN Full Stack Developer!!</h2>
 
 <br/>
 
@@ -40,21 +40,21 @@
  ## My Projects
   
 <!--START_SECTION:activity-->
-1. Wishes- [Demo](https://wishes-me.netlify.app) :   [Code](https://github.com/velanviki/Wishes-project)
-2. Blog site- [Demo](https://blog-me.netlify.app) :   [Code](https://github.com/velanviki/blog-project)
-3. Book Store-  [Demo](https://booksstores.netlify.app) : [Code](https://github.com/velanviki/Book-project)
-4. E-Commerce [Demo](https://e-commerce-my.netlify.app) : [Code](https://github.com/velanviki/Ecommerce-project)
+1. Wishes     :  [Demo](https://wishes-me.netlify.app) :   [Code](https://github.com/velanviki/Wishes-project)
+2. Blog site  :  [Demo](https://blog-me.netlify.app) :   [Code](https://github.com/velanviki/blog-project)
+3. Book Store :  [Demo](https://booksstores.netlify.app) : [Code](https://github.com/velanviki/Book-project)
+4. E-Commerce :  [Demo](https://e-commerce-my.netlify.app) : [Code](https://github.com/velanviki/Ecommerce-project)
 
 <!--END_SECTION:activity-->
 
 <br />
-<br />
+<br /> 
 
 ---
 
 ## My Portfolio
 
-  <img width="300" height="200" align="left"  alt="myPortfolio" src="https://image.shutterstock.com/image-photo/text-portfolio-on-brown-paper-260nw-387456811.jpg" />
+  <img width="300" height="100" align="left"  alt="myPortfolio" src="https://image.shutterstock.com/image-photo/text-portfolio-on-brown-paper-260nw-387456811.jpg" />
 
 
 
