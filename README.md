@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Velan S</h1>
 <h3 align="center">A passionate MERN Full Stack Developer!!</h3>
 
+<br/>
+
 - 🔭 Check out my work : [https://github.com/velanviki?tab=repositories]!
 - 🌱 An Enthusiastic Full Stack Developer with good knowledge in HTML,Css,JS and MERN stack.
 - 👯 Looking for a platform to explore my skills and to learn something new everyday.
